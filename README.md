@@ -2,7 +2,7 @@
 naver_movie_review 구분
 
 * Colab파일
-[pytorch_kobert_save.ipynb 코랩에서 보기](https://github.com/BussNam/NLP_project/blob/main/Result.ipynb)
+[Result.ipynb 코랩에서 보기](https://colab.research.google.com/github/BussNam/NLP_project/blob/main/Result.ipynb)
 <html>
 <table class="tfo-notebook-buttons" align="left">
 <!--   <td>
@@ -11,7 +11,7 @@ naver_movie_review 구분
     View on TensorFlow.org</a>
   </td> -->
   <td>
-    <a target="_blank" href="https://github.com/BussNam/NLP_project/blob/main/Result.ipynb">
+    <a target="_blank" href="https://colab.research.google.com/github/BussNam/NLP_project/blob/main/Result.ipynb">
     <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />
     Run in Google Colab</a>
   </td>
